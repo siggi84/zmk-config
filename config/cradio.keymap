@@ -34,7 +34,7 @@
 		&kp Q &kp W &kp F &kp P &kp B 						&kp J &kp L  &kp U    &kp Y   &kp QUOT 
 		&mt LGUI A &mt LALT R &mt LCTL S &mt LSFT T &kp G 			        	        &kp M &mt RSFT N &mt RCTL E &mt LALT I &mt LGUI O
 		&kp Z &mt RALT X &kp C &kp D &kp V				        &kp K &kp H  &kp CMMA &mt RALT DOT &kp FSLH
-          				&mo 1 &kp LCTL  				&kp SPC &mo 2 
+          				&kp ESC &lt 1 SPC  				&kp RET &kp BSPC 
 		>;
 		};
 
