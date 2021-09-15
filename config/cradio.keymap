@@ -41,9 +41,9 @@
        		left_layer {
 		bindings = <
 		&kp NUM_1  &kp NUM_2    &kp NUM_3    &kp NUM_4    &kp NUM_5		&kp NUM_6 &kp NUM_7 &kp NUM_8 &kp NUM_9 &kp NUM_0 
-		&kp LS(NUM_1) &kp RA(Q) &kp LS(NUM_3)   &kp LS(NUM_4)  &kp LS(NUM_5) 		&kp LS(NUM_7) &kp LS(EQL)  &kp EQL &kp LS(NUM_8)  &kp LS(NUM_9) 
-		&trans    &trans 	&kp RA(M) &kp RA(GRAVE)  &trans 	&kp LS(NUM_0) &kp NON_US_HASH &trans &trans  &kp LS(NON_US_HASH) 
-					    &mo 1  &kp LGUI  					&kp RGUI &mo 2 
+        &kp LS(NUM_1) &kp RA(Q) &kp LS(NUM_3)   &kp LS(NUM_4)  &kp LS(NUM_5) 		&kp LS(NUM_7) &kp LS(EQL)  &kp EQL &kp LS(NUM_8)  &kp LS(NUM_9)
+		&trans  &kp RA(M) &kp RA(GRAVE) &kp RA(E) &trans 	&kp LS(NUM_0) &kp NON_US_HASH &trans &trans  &kp LS(NON_US_HASH)
+          				&trans &trans  				&trans &trans
 		>;
 		};
 		
